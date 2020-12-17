@@ -1,0 +1,7 @@
+C:\Users\menon\source\repos\Consolesol\Consolepro\bin\Debug\Consolepro.exe.config
+C:\Users\menon\source\repos\Consolesol\Consolepro\bin\Debug\Consolepro.exe
+C:\Users\menon\source\repos\Consolesol\Consolepro\bin\Debug\Consolepro.pdb
+C:\Users\menon\source\repos\Consolesol\Consolepro\obj\Debug\Consolepro.csprojAssemblyReference.cache
+C:\Users\menon\source\repos\Consolesol\Consolepro\obj\Debug\Consolepro.csproj.CoreCompileInputs.cache
+C:\Users\menon\source\repos\Consolesol\Consolepro\obj\Debug\Consolepro.exe
+C:\Users\menon\source\repos\Consolesol\Consolepro\obj\Debug\Consolepro.pdb
